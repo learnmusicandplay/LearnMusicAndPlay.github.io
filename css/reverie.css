@@ -1,0 +1,28 @@
+header {
+    color: white;
+    background: url('../img/reverie.png') center center !important; 
+    background-size: cover !important;
+}
+
+.intro-table-first {
+	background-image: url('../img/IMG_4578.JPG') !important;
+	}
+
+	.intro-table-hover {
+	background-image: url('../img/IMG_4638.JPG') !important;
+	}
+
+	.intro-table-third {
+	background-image: url('../img/IMG_4261.JPG') !important;
+	}
+
+	.text-center p {
+		color: #ff0000;
+	}
+
+
+	#pricing {
+	background: #000 url('../img/IMG_4451.JPG') no-repeat center center !important;
+	-webkit-background-size: cover;
+	background-size: cover !important;
+}

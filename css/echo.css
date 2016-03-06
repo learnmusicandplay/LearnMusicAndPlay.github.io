@@ -1,0 +1,29 @@
+header {
+    color: white;
+    background: url('../img/IMG_4292.JPG') center center !important; 
+    background-size: cover !important;
+}
+
+.intro-table-first {
+	background-image: url('../img/IMG_4226.JPG') !important;
+	}
+
+.intro-table-hover {
+	background-image: url('../img/IMG_4209.JPG') !important;
+	}
+
+.intro-table-third {
+	background-image: url('../img/IMG_4198.JPG') !important;
+	}
+
+.col-md-offset-5 {
+    margin-left: 0% !important;
+}
+
+#pricing {
+    background: #222 !important;
+}
+
+b {
+	color: #ff0000;
+}
